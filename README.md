@@ -6,7 +6,7 @@ This project is a conversational chatbot built using an advanced deep learning m
 
 The model is built using TensorFlow and Keras and utilizes an **Encoder-Decoder** architecture with GRU layers.
 
-## 📊 Dataset
+## 📊 Dataset   
 
 * **Source:** The dataset was downloaded from Kaggle, specifically the "Cleaned Data for the Chatbot (collected from movies)" dataset.
 * **Content:** The `dialogs_expanded.csv` file was used, which contains thousands of question/answer pairs extracted from movie dialogues.
