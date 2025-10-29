@@ -13,7 +13,7 @@ The model is built using TensorFlow and Keras and utilizes an **Encoder-Decoder*
 * **Initial Processing:** Unnecessary columns were dropped to focus solely on the `question` and `answer` columns.
 
 ## ⚙️ Data Preprocessing
-
+  
 Text preprocessing is the most critical step in this project to prepare the data before feeding it to the model:
 
 1.  **Text Cleaning:**
